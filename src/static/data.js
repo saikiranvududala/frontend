@@ -191,7 +191,7 @@ export const navItems = [
   export const categoriesData = [
     {
       id: 1,
-      title: "Air Jordan",
+      title: "Sky Bags 101",
       subTitle: "",
       image_Url:
         "https://res.cloudinary.com/dhnh2ofsk/image/upload/v1699114473/Nike_14_prev_ui_rkzeyd.jpg",
